@@ -1,21 +1,49 @@
-# Project Overview
-Spartan Bank is a mock-banking app for CS 157A by Jonathan Etiz and Margarita Rincon. The app includes a variety of features, including:
-- User & request authentication
-- Balance transfers between personal accounts, or other users
-- Mobile deposits
-- Password change
-- User information changes
-- The option to open a savings account
-- Customer registration
+# 🏦 Spartan Bank  
 
-# Dependencies and Required Software
+**Group Members:**  
+- Margarita Rincon  
+- Jonathan Etiz  
 
-- The backend is a pseudo-RESTful API served by **Apache Tomcat 11.0.1**
-- The frontend is a **Vue.js** app
-    - Vue.js requires **node package manager** (npm)
-- The database is **PostgreSQL 16.0**
+---
 
-# Installation and Setup Instructions
+## 📖 Project Overview  
+**Spartan Bank** is a **mock-banking application** developed for CS 157A. It simulates key banking operations and provides a secure interface for managing user accounts.  
+
+🔹 Features include:  
+- 🔑 User authentication & request validation  
+- 💸 Balance transfers between personal accounts or to other users  
+- 📲 Mobile check deposits  
+- 🔐 Password management (change/reset)  
+- 👤 Update user information  
+- 💰 Option to open savings accounts  
+- 📝 Customer registration  
+
+---
+
+## 🛠️ Tech Stack  
+
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)  
+![Tomcat](https://img.shields.io/badge/Apache%20Tomcat-FF9933?logo=apachetomcat&logoColor=black)  
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)  
+![NPM](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white)  
+
+---
+
+## 📦 Dependencies & Required Software  
+
+- **Backend:** Pseudo-RESTful API served by **Apache Tomcat 11.0.1**  
+- **Frontend:** **Vue.js** app (requires **Node.js** & **npm**)  
+- **Database:** **PostgreSQL 16.0**  
+
+---
+
+## 📸 Screenshots  
+<!-- Add screenshots or demo GIFs here -->
+
+---
+## 🚀 Running the Program
 
 1. Ensure all dependencies above are installed.
 2. Create a PostgreSQL user and database called 'bankingapp' 
