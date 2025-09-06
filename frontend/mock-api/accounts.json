@@ -1,0 +1,33 @@
+{
+    "accounts": [
+      {
+        "id": 1,
+        "clientId": 1,
+        "accountType": "savings",
+        "accountNumber": "12345678",
+        "balance": 1500.0
+      },
+      {
+        "id": 2,
+        "clientId": 1,
+        "accountType": "checking",
+        "accountNumber": "87654321",
+        "balance": 500.0
+      },
+      {
+        "id": 3,
+        "clientId": 2,
+        "accountType": "savings",
+        "accountNumber": "12345999",
+        "balance": 3000.0
+      },
+      {
+        "id": 4,
+        "clientId": 2,
+        "accountType": "checking",
+        "accountNumber": "87999999",
+        "balance": 200.0
+      }
+    ]
+  }
+  

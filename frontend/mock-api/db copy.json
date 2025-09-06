@@ -1,0 +1,90 @@
+{
+    "clients": [
+      {
+        "id": 1,
+        "name": "John Doe",
+        "email": "john.doe@example.com",
+        "savingsAccount": {
+          "accountNumber": "12345678",
+          "balance": 1500.0
+        },
+        "checkingAccount": {
+          "accountNumber": "87654321",
+          "balance": 500.0
+        },
+        "transactions": [
+          {
+            "transactionId": 1,
+            "type": "deposit",
+            "accountType": "savings",
+            "amount": 500.0,
+            "date": "2024-12-01T10:00:00Z"
+          },
+          {
+            "transactionId": 2,
+            "type": "withdrawal",
+            "accountType": "checking",
+            "amount": 200.0,
+            "date": "2024-12-02T15:30:00Z"
+          }
+        ],
+        "loans": [
+          {
+            "loanId": 1,
+            "amount": 10000,
+            "status": "approved",
+            "startDate": "2024-01-01",
+            "endDate": "2027-01-01",
+            "monthlyPayment": 300.0
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Jane Smith",
+        "email": "jane.smith@example.com",
+        "savingsAccount": {
+          "accountNumber": "12345999",
+          "balance": 3000.0
+        },
+        "checkingAccount": {
+          "accountNumber": "87999999",
+          "balance": 200.0
+        },
+        "transactions": [
+          {
+            "transactionId": 3,
+            "type": "deposit",
+            "accountType": "savings",
+            "amount": 1000.0,
+            "date": "2024-12-03T11:15:00Z"
+          }
+        ],
+        "loans": [
+          {
+            "loanId": 2,
+            "amount": 20000,
+            "status": "pending",
+            "startDate": "2024-02-01",
+            "endDate": "2029-02-01",
+            "monthlyPayment": 400.0
+          }
+        ]
+      }
+    ],
+    "staff": [
+      {
+        "id": 1,
+        "username": "admin",
+        "password": "securepassword123", 
+        "role": "admin"
+      },
+      {
+        "id": 2,
+        "username": "staff1",
+        "password": "password456",
+        "role": "staff"
+      }
+    ]
+  }
+  

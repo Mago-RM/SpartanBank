@@ -1,0 +1,29 @@
+{
+    "transactions": [
+      {
+        "id": 1,
+        "clientId": 1,
+        "type": "deposit",
+        "accountType": "savings",
+        "amount": 500.0,
+        "date": "2024-12-01T10:00:00Z"
+      },
+      {
+        "id": 2,
+        "clientId": 1,
+        "type": "withdrawal",
+        "accountType": "checking",
+        "amount": 200.0,
+        "date": "2024-12-02T15:30:00Z"
+      },
+      {
+        "id": 3,
+        "clientId": 2,
+        "type": "deposit",
+        "accountType": "savings",
+        "amount": 1000.0,
+        "date": "2024-12-03T11:15:00Z"
+      }
+    ]
+  }
+  

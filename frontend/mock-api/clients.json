@@ -1,0 +1,70 @@
+{
+  "clients": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "john.doe@example.com",
+      "address": "123 Main St",
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "USA",
+      "zip": "94122",
+      "phone": "4151234567",
+      "ssn": "123-45-6789",
+      "password": "securepassword"
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "email": "jane.smith@example.com",
+      "address": "456 Market St",
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "USA",
+      "zip": "94133",
+      "phone": "4159876543",
+      "ssn": "987-65-4321",
+      "password": "anotherpassword"
+    },
+    {
+      "id": 3,
+      "name": "Margarita rincon",
+      "email": "mago.mrm91@gmail.com",
+      "address": "1622 22nd Avenue",
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "United States",
+      "zip": "94122",
+      "phone": "4158153175",
+      "ssn": "985-55-9856",
+      "password": "password"
+    },
+    {
+      "id": 4,
+      "name": "Chiri",
+      "email": "chiri@gmail.com",
+      "address": "1560 3rd Street Apt 209",
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "United States",
+      "zip": "94158",
+      "phone": "4158153175",
+      "ssn": "123-12-1234",
+      "password": "pass"
+    },
+    {
+      "id": 5,
+      "name": "August",
+      "email": "agus@gmail.com",
+      "address": "1515 Noe ST",
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "United States",
+      "zip": "94131",
+      "phone": "4158153175",
+      "ssn": "989-99-9658",
+      "password": "pass"
+ 
+    }
+  ]
+}

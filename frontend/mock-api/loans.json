@@ -1,0 +1,23 @@
+{
+    "loans": [
+      {
+        "id": 1,
+        "clientId": 1,
+        "amount": 10000,
+        "status": "approved",
+        "startDate": "2024-01-01",
+        "endDate": "2027-01-01",
+        "monthlyPayment": 300.0
+      },
+      {
+        "id": 2,
+        "clientId": 2,
+        "amount": 20000,
+        "status": "pending",
+        "startDate": "2024-02-01",
+        "endDate": "2029-02-01",
+        "monthlyPayment": 400.0
+      }
+    ]
+  }
+  
