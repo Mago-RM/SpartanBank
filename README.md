@@ -40,6 +40,13 @@
 ---
 
 ## 📸 Screenshots  
+**Login Screen**  
+![Login](screenshots/sb_start.png)  
+
+**SignUp Screen**  
+![SignUp](screenshots/sb_signup.png)  
+
+
 <!-- Add screenshots or demo GIFs here -->
 
 ---
